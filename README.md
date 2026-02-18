@@ -1,4 +1,6 @@
-# oai-skills
+see official [openai/skills](https://github.com/openai/skills)
+
+# oai-skills [ARCHIVE]
 
 See [Simon Willison’s blog post](https://simonwillison.net/2025/Dec/12/openai-skills/) for background on this project.
 
